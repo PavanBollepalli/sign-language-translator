@@ -1,0 +1,7 @@
+numpy>=1.19.5
+opencv-python>=4.5.1
+tensorflow>=2.4.1
+matplotlib>=3.3.4
+scikit-learn>=0.24.1
+flask>=2.0.1
+flask-cors>=3.0.10
